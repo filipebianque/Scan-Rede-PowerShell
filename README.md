@@ -35,13 +35,13 @@ powershell -ExecutionPolicy Bypass -File .\Scan-Rede-Completo.ps1
 
 ### 🟦 Durante o processo de varredura
 
-![Durante a varredura](img/varredura-processo.png)
+![Durante a execução](img/Script%20PS%20varredura%20de%20rede%201.png)
 
 ---
 
 ### ✅ Resultado final com dispositivos detectados
 
-![Resultado final](img/varredura-resultado.png)
+![Resultado final](img/Script%20PS%20varredura%20de%20rede%202.png)
 
 ---
 
